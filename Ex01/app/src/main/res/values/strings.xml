@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex01</string>
+    <string name="txt_heading" />
+    <string name="hint_a" />
+    <string name="txt_b" />
+    <string name="hint_res" />
+    <string name="txt_btn" />
+</resources>
